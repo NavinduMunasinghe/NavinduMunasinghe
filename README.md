@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Navindu Munasinghe
 
-### 💻 Software Engineering Undergraduate
+### 💻 Computer Science Undergraduate
 
 🚀 Full Stack Developer | UI/UX Enthusiast
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering Undergraduate
+- 🎓 Computer Science Undergraduate
 - 🌐 Learning React, Spring Boot & Flutter
 - 💡 Passionate about UI/UX Design
 - 🚀 Currently building FlexMobile ERP
