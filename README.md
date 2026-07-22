@@ -63,7 +63,7 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:navindumunasinghe2002@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
