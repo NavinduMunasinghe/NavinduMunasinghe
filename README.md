@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Navindu Munasinghe</h1>
+<h1 align="center">Hi, I'm Navindu Munasinghe</h1>
 
 <h3 align="center">💻 Full Stack Developer | UI/UX Enthusiast | Computer Science Undergraduate</h3>
 
@@ -38,9 +38,6 @@
 
 ### 🚍 Multi Model Transport Application
 > Smart Transport Management Application
-
-### 🤖 AI Business Solutions
-> AI-powered automation and productivity solutions
 
 ---
 
