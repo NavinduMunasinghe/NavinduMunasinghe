@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Spring+Boot+Developer;Flutter+Learner;UI%2FUX+Designer;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NavinduMunasinghe&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
 ---
 
 # 👨‍💻 About Me
