@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Navindu Munasinghe
 
-<!--
-**NavinduMunasinghe/NavinduMunasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineering Undergraduate
 
-Here are some ideas to get you started:
+🚀 Full Stack Developer | UI/UX Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering Undergraduate
+- 🌐 Learning React, Spring Boot & Flutter
+- 💡 Passionate about UI/UX Design
+- 🚀 Currently building FlexMobile ERP
+- 📱 Love creating modern applications
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,java,spring,mysql,firebase,flutter,dart,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 FlexMobile ERP
+Enterprise Retail Management System
+
+### 🧾 Flex Invoice System
+Invoice & Warranty Management System
+
+### 🚍 Multi Model Transport Application
+
+---
+
+## 📫 Contact
+
+- Email: navindumunasinghe2002@gmail.com
+- LinkedIn: https://linkedin.com/in/navindu-munasinghe-599046388
+
+---
+
+⭐ Thanks for visiting my profile!
